@@ -1,0 +1,4 @@
+accident_id,date,time,location,severity,weather,road_condition,light_condition
+1,2021-01-01,08:00:00,Location A,Minor,Clear,Dry,Daylight
+2,2021-01-02,09:00:00,Location B,Major,Rain,Wet,Night
+...

@@ -1,0 +1,4 @@
+casualty_id,accident_id,vehicle_id,casualty_type,age,gender,severity
+1,1,1,Driver,25,Male,Minor
+2,2,2,Passenger,30,Female,Major
+...

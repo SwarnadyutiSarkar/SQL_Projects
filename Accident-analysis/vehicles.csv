@@ -1,0 +1,4 @@
+vehicle_id,accident_id,vehicle_type,driver_age,driver_gender,driver_condition
+1,1,Car,25,Male,Normal
+2,2,Truck,45,Female,Fatigue
+...
